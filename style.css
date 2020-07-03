@@ -1,0 +1,56 @@
+body {
+    background: #9bb291;
+    margin: 0;
+    padding: 0;
+    
+  }
+  .glass {
+    position: absolute;
+    top: 32%;
+    left: 40%;
+    width: 150px;
+    height: 270px;
+    background: #e8e1ef;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    
+    
+  }
+  .straw {
+    position: absolute;
+    background: #f45d01;
+    height: 39.5%;
+    right: 40%;
+    top: -39.5%;
+    width: 10%;
+    }
+  .icecube1 {
+    position: absolute;
+    background: white;
+    height: 5%;
+    width: 18%;
+    right: 51%;
+    top: -5%;
+    
+    
+  }
+  .icecube2 {
+    position: absolute;
+    background: white;
+    height: 5%;
+    width: 18%;
+    right: 15%;
+    top: -5%;
+    }
+  .icecube3 {
+    position: absolute;
+    background: white;
+    height: 5%;
+    width: 20%;
+    left: 5%;
+    top: -5%;
+    }
+  
+  
